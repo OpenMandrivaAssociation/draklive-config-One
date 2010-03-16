@@ -1,7 +1,7 @@
 %define name draklive-config-One
 %define version 0.1
 %define svnsnap 20090428.1
-%define rel 1
+%define rel 2
 %define release %mkrel 0.%{svnsnap}.%{rel}
 %define distname %{name}-%{svnsnap}
 # DATE=$(date +%Y%m%d)
