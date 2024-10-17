@@ -15,7 +15,7 @@ Release: %{release}
 Source0: %{distname}.tar.bz2
 License: GPL
 Group: System/Configuration/Other
-Url: http://wiki.mandriva.com/en/Draklive
+Url: https://wiki.mandriva.com/en/Draklive
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
