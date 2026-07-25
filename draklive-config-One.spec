@@ -2,7 +2,7 @@
 %define version 0.1
 %define svnsnap 20090428.1
 %define rel 4
-%define release %mkrel 0.%{svnsnap}.%{rel}
+%define release 0.%{svnsnap}.%{rel}.1
 %define distname %{name}-%{svnsnap}
 # DATE=$(date +%Y%m%d)
 # svn export http://svn.mandriva.com/svn/config/One/trunk draklive-config-One-$DATE
